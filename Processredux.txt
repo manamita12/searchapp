@@ -1,0 +1,1 @@
+1. Install Redux library in your project
